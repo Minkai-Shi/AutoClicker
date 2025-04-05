@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoClicker</string>
+    <string name="activity_label">Coordinate Selector</string>
+    <string name="accessibility_service_description">Implement an automatic timed clicking feature</string>
+</resources>
