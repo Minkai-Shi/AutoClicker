@@ -118,6 +118,5 @@ Key differences explained:
 
 ---
 
-**GitHub Repository:** [AutoClicker](https://github.com/your-repo-link)  
 **License:** Apache 2.0  
 
