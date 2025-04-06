@@ -10,9 +10,10 @@ categories: Android Studio Kotlin
 ---
 
 ## **Project Background | 项目背景**  
-My mother often participates in time-limited sales, but manual operations are too slow. To solve this, I developed AutoClicker—an Android app that simulates screen clicks at user-defined times and coordinates. This project was optimized with AI-assisted debugging and is open-sourced on GitHub,.This app was developed to solve the challenge of time-sensitive operations (e.g., flash sales) by automating screen clicks at user-defined times and coordinates. Inspired by **floating clock apps** that display real-time information, this project adds a critical innovation: **automated clicking functionality** while showing precise timing in a floating window.  
+My mother often participates in time-limited sales, but manual operations are too slow. To solve this, I developed AutoClicker—an Android app that simulates screen clicks at user-defined times and coordinates. This project was optimized with AI-assisted debugging and is open-sourced on GitHub,.This app was developed to solve the challenge of time-sensitive operations (e.g., flash sales) by automating screen clicks at user-defined times and coordinates. Inspired by **floating clock apps** that display real-time information, this project adds a critical innovation: **automated clicking functionality** while showing precise timing in a floating window. 
+Since my mom started using this APP, snapping up items at the exact hour has become a piece of cake for her, and the success rate has soared. Every time she successfully grabs the desirable goods she wants, my mom can't help but praise me, saying, "This kid is so smart! He developed such a useful APP for me!" 
 **开发背景：** 我妈妈经常参与整点抢购，但由于手动操作速度有限，成功率低。为此，我开发了 AutoClicker，一款安卓自动点击工具，支持在设定的时间和坐标自动执行点击。灵感来源于悬浮时钟类APP的实时信息展示功能，但增加了关键创新：**自动点击功能**，并在悬浮窗中显示精确时间。此项目通过AI辅助完成代码优化和问题调试，现开源在GitHub。
-
+自从妈妈开始用这款 APP，整点抢购对她来说就变得轻而易举，成功率直线上升。每次成功抢购到心仪好物，妈妈都忍不住夸我：“这孩子，可真机灵，给我开发了这么好用的APP！”
 ---
 
 ## **Technical Highlights | 技术亮点**  
